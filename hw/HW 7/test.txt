@@ -1,0 +1,7 @@
+1 C++
+2 Python
+3 java
+4 GO
+5 Rust
+6 Javascript
+7 C#
